@@ -1,2 +1,2 @@
-# lithium-lognes-lib
-A library for the Lithium bot to enhance functionality between other cogs
+# lognes-lithium
+Currently a testing repository for lithium cogs but in the future will hold some potentially useful cogs for different communities!
