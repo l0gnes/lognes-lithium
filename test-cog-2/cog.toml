@@ -2,7 +2,7 @@ name = "Plant Simulator"
 author = "Alexander"
 version = 1.0
 
-requires_database = True
+requires_database = true
 requires = []
 
 description = "Ever wanted to have your own farm on discord? Now you can!"
