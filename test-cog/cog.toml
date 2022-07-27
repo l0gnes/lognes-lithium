@@ -1,0 +1,8 @@
+name = "Community Cog Test"
+author = "Alexander"
+version = 1.0
+
+description = "This is an example cog for the the Lithium bot"
+
+requires_database = false
+requires = []
